@@ -18,3 +18,6 @@ https://github.com/topics/osint
 
 #Link to the Datasploit repository
 https://github.com/DataSploit/datasploit
+
+#OSINT Framework
+https://osintframework.com/
