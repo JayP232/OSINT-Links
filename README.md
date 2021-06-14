@@ -21,3 +21,9 @@ https://github.com/DataSploit/datasploit
 
 #OSINT Framework
 https://osintframework.com/
+
+<!-- Other Links -->
+#Repo's and links to look at
+
+#automated red team:
+https://github.com/redcanaryco/atomic-red-team
