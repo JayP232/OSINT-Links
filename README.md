@@ -28,5 +28,10 @@ https://osintframework.com/
 #automated red team:
 https://github.com/redcanaryco/atomic-red-team
 
+<!-- Random Docker Stuff --!>
+
 #Reverse engineering docker images with Dive.
 https://github.com/wagoodman/dive#installation
+
+#if you have a user who is a member of the docker group this tool can give you root shell on the host os
+https://registry.hub.docker.com/r/chrisfosterelli/rootplease
