@@ -27,3 +27,6 @@ https://osintframework.com/
 
 #automated red team:
 https://github.com/redcanaryco/atomic-red-team
+
+#Reverse engineering docker images with Dive.
+https://github.com/wagoodman/dive#installation
