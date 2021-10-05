@@ -28,6 +28,9 @@ https://osintframework.com/
 #automated red team:
 https://github.com/redcanaryco/atomic-red-team
 
+#CyberMonitor/APT campaign information:
+https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections#apt--cybercriminals-campaign-collection
+
 <!-- Random Docker Stuff -->
 
 #Reverse engineering docker images with Dive.
